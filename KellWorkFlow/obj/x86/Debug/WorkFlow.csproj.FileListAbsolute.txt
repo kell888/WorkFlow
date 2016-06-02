@@ -1,0 +1,6 @@
+E:\soft\KellWorkFlow\KellWorkFlow\obj\x86\Debug\KellWorkFlow.Properties.Resources.resources
+E:\soft\KellWorkFlow\KellWorkFlow\obj\x86\Debug\WorkFlow.csproj.GenerateResource.Cache
+E:\soft\KellWorkFlow\KellWorkFlow\bin\Debug\KellWorkFlow.dll
+E:\soft\KellWorkFlow\KellWorkFlow\bin\Debug\KellWorkFlow.pdb
+E:\soft\KellWorkFlow\KellWorkFlow\obj\x86\Debug\KellWorkFlow.dll
+E:\soft\KellWorkFlow\KellWorkFlow\obj\x86\Debug\KellWorkFlow.pdb
